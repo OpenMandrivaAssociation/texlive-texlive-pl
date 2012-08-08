@@ -1,12 +1,12 @@
-# revision 23093
+# revision 26827
 # category TLCore
 # catalog-ctan undef
 # catalog-date undef
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-texlive-pl
-Version:	20111104
-Release:	2
+Version:	20120808
+Release:	1
 Summary:	TeX Live manual (Polish)
 Group:		Publishing
 URL:		http://tug.org/texlive
