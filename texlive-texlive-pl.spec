@@ -1,12 +1,12 @@
-# revision 30749
+# revision 34122
 # category TLCore
 # catalog-ctan undef
 # catalog-date undef
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-texlive-pl
-Version:	20131009
-Release:	6
+Version:	20140621
+Release:	1
 Summary:	TeX Live manual (Polish)
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -25,7 +25,6 @@ TeXLive texlive-pl package.
 %doc %{_texmfdistdir}/doc/texlive/texlive-pl/Makefile
 %doc %{_texmfdistdir}/doc/texlive/texlive-pl/live4ht.cfg
 %doc %{_texmfdistdir}/doc/texlive/texlive-pl/tex-live.css
-%doc %{_texmfdistdir}/doc/texlive/texlive-pl/tex-livep.sty
 %doc %{_texmfdistdir}/doc/texlive/texlive-pl/texlive-pl.css
 %doc %{_texmfdistdir}/doc/texlive/texlive-pl/texlive-pl.html
 %doc %{_texmfdistdir}/doc/texlive/texlive-pl/texlive-pl.pdf
