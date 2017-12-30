@@ -5,8 +5,8 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-texlive-pl
-Version:	20140621
-Release:	4
+Version:	20170515
+Release:	1
 Summary:	TeX Live manual (Polish)
 Group:		Publishing
 URL:		http://tug.org/texlive
