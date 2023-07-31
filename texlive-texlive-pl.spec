@@ -1,6 +1,6 @@
 Name:		texlive-texlive-pl
-Version:	62841
-Release:	2
+Version:	66576
+Release:	1
 Summary:	TeX Live manual (Polish)
 Group:		Publishing
 URL:		http://tug.org/texlive
