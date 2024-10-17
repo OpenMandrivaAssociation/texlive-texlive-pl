@@ -3,7 +3,7 @@ Version:	66576
 Release:	1
 Summary:	TeX Live manual (Polish)
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texlive-pl.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texlive-pl.doc.r%{version}.tar.xz
